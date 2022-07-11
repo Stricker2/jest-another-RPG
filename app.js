@@ -1,1 +1,3 @@
-// continue at 10.2
+const Game = require('./lib/Game');
+
+new Game().initializeGame();
